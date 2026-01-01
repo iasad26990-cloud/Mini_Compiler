@@ -1,0 +1,10 @@
+reg.txt = task 1
+lexer.py = task 2
+ = task 3
+tokens.txt,symbol_table.txt = task 4
+semantic_analysis.txt, lexical_error.txt = task 5
+lexical_error.txt = error handling and recovery
+tokens_stats.txt = bonus
+ir.txt = clean code =comment removal
+CLI menu 
+Flowchart
