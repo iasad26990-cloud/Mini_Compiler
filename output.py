@@ -1,7 +1,0 @@
-def main():
-    x = 5
-    y = 10
-    z = x
-    z = 15
-
-main()
