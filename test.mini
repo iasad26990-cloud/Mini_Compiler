@@ -1,0 +1,9 @@
+int main() {
+    int x = 5;
+    int y = 10;
+    int z = x;
+    if (z > 10) {
+        z = 15;
+    }
+    return z;
+}

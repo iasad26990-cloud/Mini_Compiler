@@ -1,0 +1,5 @@
+Name	Type	Value	DeclaredAt
+main	int	None	1
+x	int	5	2
+y	int	10	3
+z	int	15	4

@@ -1,0 +1,8 @@
+Token Type       Regex / Pattern                                         Example
+IDENTIFIER       [A-Za-z_][A-Za-z0-9_]*                                  counter, _var2
+INTEGER_LITERAL  \d+                                                     123
+FLOAT_LITERAL    \d*\.\d+                                                3.14
+CHAR_LITERAL     '[^']'                                                  'a', 'Z'
+STRING_LITERAL   "([^"\n]|(\\"))*"                                       "hello", "world"
+OPERATOR         \+\+|--|\+=|-=|\*=|/=|==|!=|<=|>=|&&|\|\||[+\-*/%!=<>]  ++, --, =, +, -
+SYMBOL           [\(\)\{\}\[\],;]                                        ;, (, {, }
